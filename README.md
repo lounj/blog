@@ -1,1 +1,1 @@
-blog 主要记录一些个人总结笔记，issue写blog
+blog 主要记录一些个人学习总结笔记，issue写blog
